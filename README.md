@@ -17,3 +17,7 @@ So basically what these script will do is it will change ALL of the lab/ust file
 
 Edit the old_phoneme with whatever you want to replace and new_phoneme with whatever you want to replace it with (PhonemeReplacer4Lab)
 Edit the old_lyric with whatever you want to replace and new_lyric with whatever you want to replace it with (PhonemeReplacer4Ust)
+
+# Dependency
+
+- Python (I use 3.9.6)
