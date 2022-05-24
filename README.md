@@ -20,4 +20,4 @@ Edit the old_lyric with whatever you want to replace and new_lyric with whatever
 
 # Dependency
 
-- Python (I use 3.9.6)
+- Python (I used 3.9.6)
